@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Shapes", "MVC_Shapes.csproj", "{35FA7384-DF95-41A3-B543-28A84EDAFE00}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{35FA7384-DF95-41A3-B543-28A84EDAFE00}.Debug.ActiveCfg = Debug|.NET
+		{35FA7384-DF95-41A3-B543-28A84EDAFE00}.Debug.Build.0 = Debug|.NET
+		{35FA7384-DF95-41A3-B543-28A84EDAFE00}.Release.ActiveCfg = Release|.NET
+		{35FA7384-DF95-41A3-B543-28A84EDAFE00}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
